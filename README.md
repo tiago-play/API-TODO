@@ -1,9 +1,11 @@
 # API-TODO
 Project CRUD, API Rest Node with Express and MongoDB Atlas.<br>
 
-Deployed in Heroku, URL for test > https://dashboard.heroku.com/apps/todo-app-nodejs-tiago-play <br>
 
-Or if you prefer download the project, you can use some API clients like Insomnia or Postman<br>
+
+Deployed in Heroku, URL for test online > https://dashboard.heroku.com/apps/todo-app-nodejs-tiago-play <br>
+
+If you prefer you can dowload the project in your computer, in both cases it's necessary use an API clients like Insomnia or Postman<br>
 Script to run the project: <b>npm run dev</b>
 
 <b>Dependencies used at this project:</b> Cors, Dotenv, Express, Mongoose<br> 
